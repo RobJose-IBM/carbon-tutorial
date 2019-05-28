@@ -1,0 +1,5 @@
+{
+  "prettier.jsxBracketSameLine": true,
+  "prettier.tslintIntegration": true,
+  "editor.formatOnPaste": true
+}
